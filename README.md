@@ -68,6 +68,4 @@ Criação de formulários
 👨‍💻 Autor
 
 Lukas Alves Gonçalves
-
-Lukas Alves Gonçalves
 💡 Estudante de Desenvolvimento Web
